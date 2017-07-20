@@ -1,0 +1,35 @@
+#######################################
+# Syntax Coloring Map For SIP Display Led
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+SIP_DisplayLed	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+clearDisplay	KEYWORD2
+displayDigit	KEYWORD2
+displayChar	KEYWORD2
+count	KEYWORD2
+displayControl	KEYWORD2
+
+getN_Segment	KEYWORD2
+setN_Segment	KEYWORD2
+getInitial_Pin	KEYWORD2
+setInitial_Pin	KEYWORD2
+getFinal_Pin	KEYWORD2
+setFinal_Pin	KEYWORD2
+getAscii	KEYWORD2
+setAscii	KEYWORD2
+getTime	KEYWORD2
+setTime	KEYWORD2
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
